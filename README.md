@@ -1,5 +1,5 @@
 # CV
 
-classification
-object detection
-face detection
+## classification
+## object detection
+## face detection
